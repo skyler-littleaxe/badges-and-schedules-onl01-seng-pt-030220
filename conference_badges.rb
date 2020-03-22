@@ -2,6 +2,7 @@
 def badge_maker(name)
   return "Hello, my name is #{name}."
 end
+<<<<<<< HEAD
 
 def batch_badge_creator(attendees)
   badges = []
@@ -37,3 +38,5 @@ def printer(attendees)
 end
   
   
+=======
+>>>>>>> 59953e5dcd5dc4558c9a1102ce8c3d273f073555
